@@ -1,5 +1,4 @@
 # Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation
-Wenqi Ren, Lin Ma, Jiawei Zhang, Jinshan Pan, Xiaochun Cao, Wei Liu, Ming-Hsuan Yang
 
 In this paper, we present a deep convolutional neural network to capture the inherent properties of image degradation, which can handle different kernels and saturated
 pixels in a unified framework. The proposed neural network is motivated by the low-rank property of pseudo-inverse kernels. We first compute a generalized lowrank approximation for a large number of blur kernels, and then use separable
